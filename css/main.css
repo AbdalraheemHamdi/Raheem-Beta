@@ -170,10 +170,9 @@ span.sticky-arrow i {
         display: none;
     }
 }
-.dots {
+/* .dots {
     position: absolute;
     background-image: url("../images/header-and-landing/dots.png");
-    /* background-size: contain; */
     background-repeat: no-repeat;
     height: 186px;
     width: 204px;
@@ -185,7 +184,7 @@ span.sticky-arrow i {
 .dots-down {
     bottom: 100px;
     left: 0;
-}
+} */
 /* End Global Rules */
 
 /* Start Header */
