@@ -1364,7 +1364,7 @@ color: white;
     /* gap: var(--boxes-gap); */
 }
 .events img {
-    max-width: 450px;
+    max-width: 100%;
 }
 @media (max-width:991px){
     .events img {
